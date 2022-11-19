@@ -5,7 +5,7 @@ Set of lookup tables (LUTs) for [Fiji](https://fiji.sc/)/[ImageJ](https://imagej
 ## Color set
 
 | Name           | HEX    | RGB         | CMYK       |
-+================+========+=============+============+
+| -------------- | ------ | ----------- | ---------- |
 | Black          | 000000 | 0,0,0       | 0,0,0,100  |
 | Orange         | e69f03 | 230,159,0   | 0,50,100,0 |
 | Sky Blue       | 56b4e9 | 86,180,233  | 80,0,0,0   |
