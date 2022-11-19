@@ -19,7 +19,7 @@ Set of lookup tables (LUTs) for [Fiji](https://fiji.sc/)/[ImageJ](https://imagej
 
 Okabe M, Ito K. **How to make figures and presentations that are friendly to color blind people**. In: Jfly: data repository for *Drosophila* researchers [Internet]. 20 Nov 2002 [cited 6 Apr 2015]. Available: https://jfly.uni-koeln.de/html/color_blind/ (or [PDF](https://jfly.uni-koeln.de/html/manuals/pdf/color_blind.pdf))
 
-I generated the LUT files generated using the [LUT Panel](http://rsb.info.nih.gov/ij/plugins/lut-panel.html) ([source](http://rsb.info.nih.gov/ij/plugins/lut-panel.html)) ImageJ plugin developed by **Patrick Pirrotte** and **Jerome Mutterer**.
+I generated the LUT files using the [LUT Panel](http://rsb.info.nih.gov/ij/plugins/lut-panel.html) ([source](http://rsb.info.nih.gov/ij/plugins/lut-panel.html)) ImageJ plugin developed by **Patrick Pirrotte** and **Jerome Mutterer**.
 
 ## Installation
 
