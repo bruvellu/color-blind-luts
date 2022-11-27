@@ -1,6 +1,11 @@
 # :rainbow: Color Blind LUTs
 
-Set of lookup tables (LUTs) for [Fiji](https://fiji.sc/)/[ImageJ](https://imagej.github.io/) with colors unambiguous to color blind humans.
+Set of lookup tables (LUTs) unambiguous to color blind humans for [Fiji](https://fiji.sc/)/[ImageJ](https://imagej.github.io/).
+
+This set of color blind safe colors was first proposed by **Masataka Okabe** and **Kei Ito** [1].
+I simply generated the LUT files for ImageJ using the [LUT Panel](http://rsb.info.nih.gov/ij/plugins/lut-panel.html) plugin developed by **Patrick Pirrotte** and **Jerome Mutterer**.
+
+[1] Okabe M, Ito K. **How to make figures and presentations that are friendly to color blind people**. In: Jfly: data repository for *Drosophila* researchers [Internet]. 20 Nov 2002 [cited 6 Apr 2015]. Available: https://jfly.uni-koeln.de/html/color_blind/ (or [PDF](https://jfly.uni-koeln.de/html/manuals/pdf/color_blind.pdf))
 
 ## Color set
 
@@ -14,12 +19,6 @@ Set of lookup tables (LUTs) for [Fiji](https://fiji.sc/)/[ImageJ](https://imagej
 | Blue           | 0072b2 | 0,114,178   | 100,50,0,0 |
 | Vermilion      | d55e00 | 213,94,0    | 0,80,100,0 |
 | Reddish Purple | cc79a7 | 204,121,167 | 10,70,0,0  |
-
-**Masataka Okabe** and **Kei Ito** proposed this set of color blind safe colors in their meticulous report entitled:
-
-Okabe M, Ito K. **How to make figures and presentations that are friendly to color blind people**. In: Jfly: data repository for *Drosophila* researchers [Internet]. 20 Nov 2002 [cited 6 Apr 2015]. Available: https://jfly.uni-koeln.de/html/color_blind/ (or [PDF](https://jfly.uni-koeln.de/html/manuals/pdf/color_blind.pdf))
-
-I generated the LUT files using the [LUT Panel](http://rsb.info.nih.gov/ij/plugins/lut-panel.html) ([source](http://rsb.info.nih.gov/ij/plugins/lut-panel.html)) ImageJ plugin developed by **Patrick Pirrotte** and **Jerome Mutterer**.
 
 ## Installation
 
