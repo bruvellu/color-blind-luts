@@ -12,11 +12,11 @@ I only generated the corresponding LUT files for ImageJ using the [LUT Panel](ht
 | Name           | HEX    | RGB         | CMYK       |
 | -------------- | ------ | ----------- | ---------- |
 | Black          | 000000 | 0,0,0       | 0,0,0,100  |
-| Orange         | e69f03 | 230,159,0   | 0,50,100,0 |
+| Blue           | 0072b2 | 0,114,178   | 100,50,0,0 |
 | Sky Blue       | 56b4e9 | 86,180,233  | 80,0,0,0   |
 | Bluish Green   | 009966 | 0,153,102   | 97,0,75,0  |
 | Yellow         | f0e442 | 240,228,66  | 10,5,90,0  |
-| Blue           | 0072b2 | 0,114,178   | 100,50,0,0 |
+| Orange         | e69f03 | 230,159,0   | 0,50,100,0 |
 | Vermilion      | d55e00 | 213,94,0    | 0,80,100,0 |
 | Reddish Purple | cc79a7 | 204,121,167 | 10,70,0,0  |
 
