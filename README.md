@@ -9,6 +9,8 @@ I only generated the corresponding LUT files for ImageJ using the [LUT Panel](ht
 
 ## Color set
 
+![](ColorBlindLUTs.png)
+
 | Name           | HEX    | RGB         | CMYK       |
 | -------------- | ------ | ----------- | ---------- |
 | Black          | 000000 | 0,0,0       | 0,0,0,100  |
