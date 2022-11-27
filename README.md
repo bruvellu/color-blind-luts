@@ -1,8 +1,8 @@
 # :rainbow: Color Blind LUTs
 
-Set of lookup tables (LUTs) unambiguous to color blind humans for [Fiji](https://fiji.sc/)/[ImageJ](https://imagej.github.io/).
+Lookup tables (LUTs) unambiguous to color blind humans. For [Fiji](https://fiji.sc/)/[ImageJ](https://imagej.github.io/).
 
-This set of color blind safe colors was first proposed by **Masataka Okabe** and **Kei Ito** [1].
+**Masataka Okabe** and **Kei Ito** first proposed this color blind safe colorscheme in their meticulous manual from 2002 [1].
 I simply generated the LUT files for ImageJ using the [LUT Panel](http://rsb.info.nih.gov/ij/plugins/lut-panel.html) plugin developed by **Patrick Pirrotte** and **Jerome Mutterer**.
 
 [1] Okabe M, Ito K. **How to make figures and presentations that are friendly to color blind people**. In: Jfly: data repository for *Drosophila* researchers [Internet]. 20 Nov 2002 [cited 6 Apr 2015]. Available: https://jfly.uni-koeln.de/html/color_blind/ (or [PDF](https://jfly.uni-koeln.de/html/manuals/pdf/color_blind.pdf))
