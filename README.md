@@ -24,6 +24,18 @@ To use these colors in ImageJ, I generated the corresponding LUT files with the 
 
 ## Installation
 
+### Automatic install/updates (recommended)
+
+1. Open Fiji and click on `Help` > `Update...` > `Manage update sites`
+2. Click on `Add update site`, a new line will appear at the bottom of the list
+3. Add `https://sites.imagej.net/ColorBlindLUTs/` to the **URL** field
+4. Add `ColorBlindLUTs` to the **Name** field
+5. Click `Close` to close the list
+6. Click `Apply changes` to install
+7. Restart Fiji
+
+### Manual install
+
 1. Clone or download this repository to your computer
 2. Copy `.lut` files to the `luts` directory in your Fiji installation
 3. Restart Fiji
