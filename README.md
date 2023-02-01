@@ -48,3 +48,7 @@ CB_Vermilion
 CB_Yellow
 ```
 
+## Cite
+
+Vellutini BC (2015). Color blind friendly lookup tables for Fiji/ImageJ. Zenodo.
+
