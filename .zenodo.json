@@ -7,8 +7,6 @@
         }
     ],
 
-    "license": "MIT License",
-
     "publication_date": "2015-04-06",
 
     "title": "Lookup tables (LUTs) for Fiji/ImageJ unambiguous to color blind humans.",
