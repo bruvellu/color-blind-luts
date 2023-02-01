@@ -4,7 +4,7 @@ Lookup tables (LUTs) for [Fiji](https://fiji.sc/)/[ImageJ](https://imagej.github
 
 ## Background
 
-**Masataka Okabe** and **Kei Ito** first proposed this color set in their meticulous article from 2002 describing how to make color blind friendly figures [1].
+**Masataka Okabe** and **Kei Ito** first proposed this color set in their meticulous work describing how to make color blind friendly figures [1].
 Using the LUT Panel plugin developed by **Patrick Pirrotte** and **Jerome Mutterer** [2], I created the corresponding LUT files for Okabe & Ito’s color set to use on confocal stacks in ImageJ.
 
 **References:**
