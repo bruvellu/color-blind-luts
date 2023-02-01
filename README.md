@@ -24,22 +24,24 @@ Using the [LUT Panel](http://rsb.info.nih.gov/ij/plugins/lut-panel.html) plugin 
 | Vermilion      | d55e00 | 213,94,0    | 0,80,100,0 |
 | Reddish Purple | cc79a7 | 204,121,167 | 10,70,0,0  |
 
-## Installation
+## Install
 
-### Automatic install/updates (recommended)
+**ColorBlindLUTs** is available in the list of Fiji update sites. To install simply:
 
-1. Open Fiji and click on `Help` > `Update...` > `Manage update sites`
-2. Click on `Add update site`, a new line will appear at the bottom of the list
-3. Add `https://sites.imagej.net/ColorBlindLUTs/` to the **URL** field
-4. Add `ColorBlindLUTs` to the **Name** field
-5. Click `Close` to close the list
-6. Click `Apply changes` to install
-7. Restart Fiji
+1. Open Fiji and go to `Help` > `Update...` > `Manage update sites`
+2. Scroll down and mark the checkbox for `ColorBlindLUTs`
+3. Click `Close` and then `Apply changes` to install
+4. Restart Fiji
 
-### Manual install
+The LUTs will appear in the `LUT Menu`:
 
-1. Clone or download this repository to your computer
-2. Copy `.lut` files to the `luts` directory in your Fiji installation
-3. Restart Fiji
-4. CB LUTs will be accessible in the LUT Menu
+```
+CB_Blue
+CB_BluishGreen
+CB_Orange
+CB_ReddishPurple
+CB_SkyBlue
+CB_Vermilion
+CB_Yellow
+```
 
