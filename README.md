@@ -50,5 +50,4 @@ CB_Yellow
 
 ## Cite
 
-Vellutini BC (2015). Color blind friendly lookup tables for Fiji/ImageJ. Zenodo.
-
+Vellutini BC (2015). Color blind friendly lookup tables for Fiji/ImageJ. Zenodo. https://doi.org/10.5281/zenodo.7596750
