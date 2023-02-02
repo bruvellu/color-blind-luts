@@ -13,7 +13,7 @@
 
     "description": "Masataka Okabe and Kei Ito first proposed this color set in their meticulous work describing how to make color blind friendly figures [1]. Using the LUT Panel plugin developed by Patrick Pirrotte and Jerome Mutterer [2], I created the corresponding LUT files for Okabe & Ito’s color set to use on confocal stacks in ImageJ.",
 
-    "references": ["Okabe M, Ito K. **How to make figures and presentations that are friendly to color blind people**. In: Jfly: data repository for *Drosophila* researchers [Internet]. 20 Nov 2002 [cited 6 Apr 2015]. Available: https://jfly.uni-koeln.de/html/color_blind/", "Pirrotte P, Mutterer J. **LUT Panel**. In: ImageJ plugins website [Internet]. 15 Mar 2003 [cited 6 Apr 2015]. Available: https://imagej.nih.gov/ij/plugins/lut-panel.html"],
+    "references": ["Okabe M, Ito K. How to make figures and presentations that are friendly to color blind people. In: Jfly: data repository for Drosophila researchers [Internet]. 20 Nov 2002 [cited 6 Apr 2015]. Available: https://jfly.uni-koeln.de/html/color_blind/", "Pirrotte P, Mutterer J. LUT Panel. In: ImageJ plugins website [Internet]. 15 Mar 2003 [cited 6 Apr 2015]. Available: https://imagej.nih.gov/ij/plugins/lut-panel.html"],
 
     "keywords": ["Fiji", "ImageJ"]
 
